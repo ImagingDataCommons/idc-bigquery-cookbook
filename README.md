@@ -7,6 +7,8 @@ A curated collection of BigQuery queries for analyzing DICOM metadata and derive
 
 Includes ~50 production-ready queries organized by topic (segmentations, measurements, slide microscopy, annotations, etc.) with automated regression testing, cost estimation, and complexity analysis.
 
+The queries organized in the repository were initially curated in the IDC BigQuery cookbook, organized in [this google doc](https://docs.google.com/document/d/1qC5_qUFBQ2HmEjfYQa9WaH1Y-erMlfis00bbU8UPnRs/edit?tab=t.0). Its content was migrated and reorganized into this repository on January 22, 2026, to improve accessibility and maintainability.
+
 ## Quick Start
 
 ### View Queries
